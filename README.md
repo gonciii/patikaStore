@@ -30,25 +30,44 @@ Notebook
 ### Ürün Özellikleri
 #### Cep Telefonları
 Ürün ID: Sistemde kayıtlı benzersiz numarası
+
 Ürün Adı
+
 Marka
+
 Birim Fiyatı
+
 İndirim Oranı
+
 Stok Miktarı
+
 Hafıza Bilgisi (128 GB, 64 GB)
+
 Ekran Boyutu (6.1 İnc)
+
 Pil Gücü (4000 mAh)
+
 RAM (6 GB)
+
 Renk (Siyah, Kırmızı, Mavi)
+
 #### Notebook
 Ürün ID: Sistemde kayıtlı benzersiz numarası
+
 Ürün Adı
+
 Marka
+
 Birim Fiyatı
+
 İndirim Oranı
+
 Stok Miktarı
+
 RAM (8 GB)
+
 Depolama (512 SSD)
+
 Ekran Boyutu (14 inç)
 
 ### Nesne Yönelimli Programlama (OOP) Kullanımı
